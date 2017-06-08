@@ -25,7 +25,7 @@ I'm learning how a team works, how software is built, and even though my role is
 
 ## Must read
 
-* ("Code Simplicity")[https://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander-ebook/dp/B007NZU848//]
+* ["Code Simplicity"](https://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander-ebook/dp/B007NZU848//)
 
 
 ## To learn
@@ -69,12 +69,13 @@ While I'm continuing to build deeper technical competency I'm also broadening my
 ## Must know
 
 * Docker for development and deployment
-* 2016 & (2017 State of DevOps report)[https://puppet.com/resources/whitepaper/state-of-devops-report] (sign up for them and download. That way you get informed of next year's one!)
+* 2016 & [2017 State of DevOps report](https://puppet.com/resources/whitepaper/state-of-devops-report) (sign up for them and download. That way you get informed of next year's one!)
 * The Design Thinking process
 * How to evaluate code for simplicity and maintainability
 * How to teach Test-Driven Development
 * Trunk-based development
 * Some principles from the Lean movement, particularly why small batch sizes are useful
+* Markdown
 
 ## Must do
 
@@ -95,13 +96,13 @@ While I'm continuing to build deeper technical competency I'm also broadening my
 ## Extra points
 
 * Service-oriented architecture
-* Microservices architecture (http://microservices.io)
+* [Microservices architecture](http://microservices.io)
 * Lean product design
 * Lean Analytics
 * Speak at a local tech meetup
 * Knowledge of the Theory of Constraints and how it might be useful to building software
 * "The Goal" by Elihyu Goldratt
-* Some techniques of (Agile Modeling)[http://www.agilemodeling.com]
+* Some techniques of [Agile Modeling](http://www.agilemodeling.com)
 
 ## Goal
 
