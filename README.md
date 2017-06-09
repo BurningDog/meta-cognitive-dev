@@ -41,7 +41,7 @@ I'm learning how a team works, how software is built, and even though my role is
 
 ## Extra points
 
-* Lean UX
+* [Lean UX](https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux)
 * Design Thinking
 * Set up a personal kanban board (http://personalkanban.com)
 * Intentional IDE choice
@@ -121,7 +121,7 @@ Gain deep technical competency in your area, perhaps learning an additional lang
 ## Must do
 
 * Lead a team
-* Coach the team on trunk-based development
+* Coach the team on [trunk-based development](https://trunkbaseddevelopment.com/)
 * Know what each person's strengths and weaknesses are, and help them focus on their strengths
 * Manage upwards: find out what information will be useful to those higher up the food chain
 * Regularly add useful knowledge to the team
@@ -134,7 +134,7 @@ Gain deep technical competency in your area, perhaps learning an additional lang
 ## Extra points
 
 * Any coaching methodology
-* Familiarity with the SPINE model
+* Familiarity with the [Spine model](http://spinemodel.info/explanation/introduction/)
 
 
 # Manager
