@@ -18,6 +18,8 @@ I'm learning how a team works, how software is built, and even though my role is
 * A language (the main principles, syntax)
 * How to comment code
 * git (branching/merging, commits, pull requests)
+* The process of committing (first review local changes with a git diff)
+* How to write a commit message (use the [Angular commit message format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit))
 * How to create an ssh public/private key
 * Have a GitHub profile with at least 2 example projects. Don't just do a "hello world" which took you 5 minutes. Change it in an interesting way.
 * Agile
@@ -37,7 +39,7 @@ I'm learning how a team works, how software is built, and even though my role is
 * Docker for development
 * What a product backlog is and how it's maintained
 * Ability to wireframe on a whiteboard
-
+* How to gently but firmly push back on anyone except the Product Owner re-prioritizing their work
 
 ## Extra points
 
@@ -62,7 +64,7 @@ They will help you learn everything in the "to learn" section - a good attitude 
 
 # Mid-level dev
 
-I've been at this a while and I'm pretty good. I can dazzle junior developers but I know enough to know I have still a lot of learn.
+I've been at this a while and I'm pretty good. I can dazzle junior developers but I know enough to know I have still a lot of learn. I still sometimes get lost building too much complexity, so I'm trying to learn the Agile principle of simplicity: the art of maximising the amount of work not done.
 
 While I'm continuing to build deeper technical competency I'm also broadening my knowlege, whether that's in other languages or other parts of the stack or in Agile methods or graphic design or usability or Design Thinking. I regularly mentor others by pair programming and code reviews and I also see plenty of opportunities for improvement in the way my team - and the overall system - works.
 
@@ -81,7 +83,7 @@ While I'm continuing to build deeper technical competency I'm also broadening my
 
 * Mentor others, particularly the junior devs on your team.
 * Pair program
-* Do code review
+* Do code review (sit with the person you're doing code review with; first get clear on what problem they are solving with their pull request; verify that their code actually solves that problem; check that commits are granular and descriptive, that nothing accidental was added to the commit; syntax is the least important of these: syntax errors should be caught with linters in an IDE; note what training can be done with the team based on the code you're seeing).
 * Ability to wireframe on a whiteboard
 * Learn from others, both junior and senior to you. Seek out things you don't know. Be curious!
 * Regularly asks "What's the problem we're trying to solve with that?" and optimizes for a solution with others.
@@ -130,6 +132,8 @@ Gain deep technical competency in your area, perhaps learning an additional lang
 * Continuous forecasting using Monte Carlo estimations, communicating that upwards and outwards
 * Optimize for small batch sizes (from code commits to projects)
 * Optimize the system for flow
+* Optimize for simplicity: the art of maximizing the amount of work not done
+* Regularly pair program with team members
 
 ## Extra points
 
