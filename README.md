@@ -138,7 +138,7 @@ Gain deep technical competency in your area, perhaps learning an additional lang
 ## Extra points
 
 * Any coaching methodology
-* Familiarity with the [Spine model](http://spinemodel.info/explanation/introduction/)
+* Familiarity with the [Spine model](http://spinemodel.info/explanation/introduction)
 
 
 # Manager
