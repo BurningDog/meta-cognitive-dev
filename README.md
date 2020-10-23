@@ -135,6 +135,10 @@ Gain deep technical competency in your area, perhaps learning an additional lang
 * Optimize for simplicity: the art of maximizing the amount of work not done
 * Regularly pair program with team members
 
+## The "NOT-WRITING-CODE" skills
+
+* https://twitter.com/marlenac/status/1319639724336640000
+
 ## Extra points
 
 * Any coaching methodology
