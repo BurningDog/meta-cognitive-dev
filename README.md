@@ -64,7 +64,7 @@ They will help you learn everything in the "to learn" section - a good attitude 
 
 # Mid-level dev
 
-I've been at this a while and I'm pretty good. I can dazzle junior developers but I know enough to know I have still a lot of learn. I still sometimes get lost building too much complexity, so I'm trying to learn the Agile principle of simplicity: the art of maximising the amount of work not done.
+I've been at this a while and I'm pretty good. I can dazzle junior developers but I know enough to know I have still a lot to learn. I still sometimes get lost building too much complexity, so I'm trying to learn the Agile principle of simplicity: the art of maximising the amount of work not done.
 
 While I'm continuing to build deeper technical competency I'm also broadening my knowlege, whether that's in other languages or other parts of the stack or in Agile methods or graphic design or usability or Design Thinking. I regularly mentor others by pair programming and code reviews and I also see plenty of opportunities for improvement in the way my team - and the overall system - works.
 
